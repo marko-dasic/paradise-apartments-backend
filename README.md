@@ -6,11 +6,11 @@ The application is intended for renting apartments for a specific period.
 
 The application consists of 4 class libraries and 1 API:
 
-- 1 Domain
-- 2 DataAccess
-- 3 Application
-- 4 Implementation
-- 5 RESTful API
+- Domain
+- DataAccess
+- Application
+- Implementation
+- RESTful API
 
 The application is used by unauthorized users, authorized users, and administrators.
 There are no strictly defined roles; instead, privileges are managed at the Use Case level.
